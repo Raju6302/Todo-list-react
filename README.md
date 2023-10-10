@@ -1,6 +1,6 @@
 # React TodoList 
 
--> This is a very simple todo list application written using React.js
+-> This is a very simple todo list application built by using React.js
 
 <h3>How to run it</h3> 
 
